@@ -27,3 +27,7 @@
         └── jquery.min.js
 
 ```
+
+> 前端页面
+
+![前端页面](./src/main/resources/web/web.png)
